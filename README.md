@@ -84,7 +84,7 @@ python filename.py
 ```
 ## 📊 GitHub Stats
 
-<<p align="center">
+<p align="center">
   <img src="./python-stats.svg" alt="Python Stats" width="720"/>
 </p>
 
