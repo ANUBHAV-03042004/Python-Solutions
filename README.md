@@ -84,11 +84,8 @@ python filename.py
 ```
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ANUBHAV-03042004&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600"
-    alt="GitHub Stats"
-  />
+<<p align="center">
+  <img src="./python-stats.svg" alt="Python Stats" width="720"/>
 </p>
 
 ## 🤝 Contribution Guidelines
