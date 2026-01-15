@@ -1,0 +1,51 @@
+<svg width="720" height="240" viewBox="0 0 720 240"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="720" height="240" rx="20" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text x="30" y="48" fill="#FFD43B"
+        font-size="28" font-family="Fira Code, monospace">
+    Python Programming Stats
+  </text>
+
+  <!-- Divider -->
+  <line x1="30" y1="62" x2="690" y2="62"
+        stroke="#FFD43B" stroke-width="1" opacity="0.6"/>
+
+  <!-- Stats -->
+  <text x="40" y="105" fill="#FFFFFF"
+        font-size="18" font-family="Fira Code, monospace">
+    • Primary Language: Python
+  </text>
+
+  <text x="40" y="135" fill="#FFFFFF"
+        font-size="18" font-family="Fira Code, monospace">
+    • Focus: Logic Building & Problem Solving
+  </text>
+
+  <text x="40" y="165" fill="#FFFFFF"
+        font-size="18" font-family="Fira Code, monospace">
+    • Concepts: Loops, Patterns, Strings, Matrices
+  </text>
+
+  <text x="40" y="195" fill="#FFFFFF"
+        font-size="18" font-family="Fira Code, monospace">
+    • Level: Beginner → Intermediate
+  </text>
+
+  <!-- Python Logo -->
+  <rect x="560" y="90" width="120" height="120" rx="20" fill="#3776AB"/>
+  <text x="585" y="165" fill="#FFD43B"
+        font-size="64" font-family="Arial Black">
+    Py
+  </text>
+</svg>
