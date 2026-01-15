@@ -83,11 +83,14 @@ python filename.py
  ┗ 📜 README.md
 ```
 ## 📊 GitHub Stats
+# 🐍 Python Journey
 
-<p align="center">
-  <img src="./python-stats.svg" alt="Python Stats" width="720"/>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Logic](https://img.shields.io/badge/Focus-Logic_Building-green?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
 
+* **Core Concepts:** `Loops` • `Patterns` • `Strings` • `Matrices`
+  
 ## 🤝 Contribution Guidelines
 
 Contributions are welcome 🎉
